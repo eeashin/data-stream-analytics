@@ -1,0 +1,13 @@
+dataset:  time,           # Time When data generated
+          readable_time,  # Generated time in human readable format
+          acceleration,   # Tortoise movement data
+          acceleration_x, # Tortoise movement data of X direction
+          acceleration_y, # Tortoise movement data of Y direction
+          acceleration_z, # Tortoise movement data of Z direction
+          battery,        # Battery level data of the device 
+          humidity,       # Environmental humidity data
+          pressure,       # Environmental pressure data
+          temperature,    # Environmental temperature data
+          dev-id          # Identification data of the device
+
+                      
